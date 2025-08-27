@@ -17,14 +17,12 @@ This project demonstrates **Object-Oriented Programming (OOP)** concepts in C++.
 - g++ main.cpp employee.cpp sales.cpp engineer.cpp -o program
 
 ### Example Output
-Total Salary: 5100
-Name: ali, EmpID: 120, Salary: 5000
-Gross Sales: 1000, Commesion Rate0.1
-===========================
-Total Salary: 10500
-Name: amr, EmpID: 290, Salary: 10000
-Speciality: IT, Experience: 5, Over Time Hours: 10, Over Time Hour Rate: 50
-===========================
-  
-  
+ - Total Salary: 5100
+   Name: ali, EmpID: 120, Salary: 5000
+   Gross Sales: 1000, Commesion Rate0.1
+ ===========================
+   Total Salary: 10500
+   Name: amr, EmpID: 290, Salary: 10000
+   Speciality: IT, Experience: 5, Over Time Hours: 10, Over Time Hour Rate: 50
+  ===========================  
   Number Of Employees: 2
